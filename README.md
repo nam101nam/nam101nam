@@ -40,7 +40,17 @@
 
 <div align="center">
   <!-- Core Skills -->
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,postgres,docker,git,github,vscode,html,css,js&theme=light" alt="Core Skills" />
+  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=light" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" />
   <br/>
   <!-- AI / LLM & Creative 3D Tools (Matching Skillicons Light Theme #F4F2ED) -->
   <img src="./assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch" />
@@ -50,7 +60,8 @@
   <img src="./assets/icons/claude.svg" width="48" height="48" alt="Claude Code" />
   <img src="./assets/icons/codex.svg" width="48" height="48" alt="OpenAI Codex" />
   <img src="./assets/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity" />
-  <img src="https://skillicons.dev/icons?i=unity,blender&theme=light" alt="Unity & Blender" />
+  <img src="https://skillicons.dev/icons?i=unity&theme=light" alt="Unity" />
+  <img src="https://skillicons.dev/icons?i=blender&theme=light" alt="Blender" />
   <img src="./assets/icons/ps.svg" width="48" height="48" alt="Photoshop" />
   <img src="./assets/icons/ai.svg" width="48" height="48" alt="Illustrator" />
   <img src="./assets/icons/capcut.svg" width="48" height="48" alt="CapCut" />
