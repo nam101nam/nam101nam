@@ -42,12 +42,13 @@
   <!-- Core Skills -->
   <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" />
   <img src="https://skillicons.dev/icons?i=cs&theme=light" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" />
   <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" />
   <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" />
+
   <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" />
 
   <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" />
