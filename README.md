@@ -43,7 +43,11 @@
   <!-- Core Skills -->
   <img src="https://skillicons.dev/icons?i=py,cpp,cs,postgres,docker,git,github,vscode,html,css,js&theme=light" alt="Core Skills" />
   <br/>
-  <!-- AI / LLM & Creative 3D Tools (All 100% White Theme) -->
+  <!-- AI / LLM & Creative 3D Tools (Matching Skillicons Light Theme #F4F2ED) -->
+  <img src="./assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch" />
+  <img src="./assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" />
+  <img src="./assets/icons/langgraph.svg" width="48" height="48" alt="LangGraph" />
+  <img src="./assets/icons/fastapi.svg" width="48" height="48" alt="FastAPI" />
   <img src="./assets/icons/claude.svg" width="48" height="48" alt="Claude Code" />
   <img src="./assets/icons/codex.svg" width="48" height="48" alt="OpenAI Codex" />
   <img src="./assets/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity" />
