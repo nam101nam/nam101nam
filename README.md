@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>🟩 Hi there, I'm NamGreen 🟩</h1>
-  
+
   <br>
 
   <!-- Avatar bo tròn -->
@@ -9,7 +9,6 @@
     <img src="./assets/avatar.png" width="130" height="130" alt="NamGreen Avatar" />
   </a>
 
-  <br><br>
 
   ### 🚀 AI Engineer / Software Developer
 
@@ -21,7 +20,7 @@
   </p>
 
   <!-- Auto-typing SVG animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=450&lines=Exploring+Deep+Learning+%26+LLMs;Building+Intelligent+Solutions;Game+Dev+%26+3D+Enthusiast;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=480&lines=Exploring+Deep+Learning+%26+LLMs;Building+Intelligent+Solutions;Game+Dev+%26+3D+Enthusiast;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 
 </div>
 
