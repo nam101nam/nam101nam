@@ -32,7 +32,7 @@
 - 🌱 Focusing on **Deep Learning, LLMs, AI Agents & Unity (C#)**
 - 👯 Looking to collaborate on **AI-driven applications, Open Source & Interactive Tech**
 - 💬 Ask me about **Python, Machine Learning, Agentic Workflows & 3D / Game Dev**
-- ⚡ Fun fact: **I turn water into code and craft virtual worlds ☕🎮**
+- ⚡ Fun fact: **I turn water into code and craft virtual worlds 💧🎮**
 
 ---
 
