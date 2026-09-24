@@ -20,7 +20,7 @@
   </p>
 
   <!-- Auto-typing SVG animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=480&lines=Exploring+Deep+Learning+%26+LLMs;Building+Intelligent+Solutions;Game+Dev+%26+3D+Enthusiast;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=480&lines=Exploring+Deep+Learning+%26+LLMs;Building+Intelligent+Solutions;Game+Dev+%26+3D+Enthusiast;Turning+water+into+code+%E2%98%95" alt="Typing SVG" />
 
 </div>
 
@@ -32,7 +32,7 @@
 - 🌱 Focusing on **Deep Learning, LLMs, AI Agents & Unity (C#)**
 - 👯 Looking to collaborate on **AI-driven applications, Open Source & Interactive Tech**
 - 💬 Ask me about **Python, Machine Learning, Agentic Workflows & 3D / Game Dev**
-- ⚡ Fun fact: **I turn coffee into code and craft virtual worlds ☕🎮**
+- ⚡ Fun fact: **I turn water into code and craft virtual worlds ☕🎮**
 
 ---
 
