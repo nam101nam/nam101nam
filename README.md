@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=nam101nam&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=nam101nam&theme=default&v=1" alt="GitHub Streak" />
 </div>
 
 ---
